@@ -1,0 +1,5 @@
+#!/usr/in/env ruby
+
+require 'iphy/cli'
+
+Iphy::Cli.start
